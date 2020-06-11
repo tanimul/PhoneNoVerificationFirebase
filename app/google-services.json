@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494521261808",
+    "firebase_url": "https://phonenoverificationfireb-baa24.firebaseio.com",
+    "project_id": "phonenoverificationfireb-baa24",
+    "storage_bucket": "phonenoverificationfireb-baa24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494521261808:android:5e0487d64c239427b3ac35",
+        "android_client_info": {
+          "package_name": "com.example.phonenoverificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494521261808-urs523q4ik00etlstnbih8rki1o2d0uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonenoverificationfirebase",
+            "certificate_hash": "f3bc0802e0df2bfc8d5ce4ccddfb1051dc523df7"
+          }
+        },
+        {
+          "client_id": "494521261808-mqshfbhmtdg5s0vhig8nqbc6ksp1dhtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFlutEC8V76dBuSVb75yrNCSJ1LDSRF04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494521261808-mqshfbhmtdg5s0vhig8nqbc6ksp1dhtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
